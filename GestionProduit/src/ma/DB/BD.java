@@ -28,7 +28,7 @@ public class BD
     {
         try
         {
-            conn = DriverManager.getConnection(dbURL, "root", "067447105");
+            conn = DriverManager.getConnection(dbURL, "ADMIN", "123456");
         } catch (Exception ex)
         {
             ex.printStackTrace();
