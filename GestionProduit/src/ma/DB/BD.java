@@ -12,7 +12,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import ma.controller.Client_controller;
 //import ma.view.Fichier;
-//DELL ADIL OKBANI Comments
+//DELL COMMENTS
 /**
  *
  * @author Administrateur
