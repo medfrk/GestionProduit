@@ -4,12 +4,11 @@
  */
 package ma.model;
 
-/**
- *
- * @author designer
- */
+
 public class Client_model
 {
+    
+    
     private String N_CIN;
     private String Nom;
     private String Tel;
